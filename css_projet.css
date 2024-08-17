@@ -1,0 +1,24 @@
+
+body {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    padding-top: 100px; 
+    
+}
+
+.content {
+    position: relative;
+    z-index: 1; /* Pour que le contenu soit également au-dessus */
+    padding: 20px;
+    color: white; /* Couleur du texte pour le contraste */
+    margin-top: 100px;
+}
+.nav-item{
+    font-size: large;
+}
+.i1{
+    font-size: larger;
+}
+
+
